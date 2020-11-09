@@ -10,16 +10,16 @@
 
 ## Table of Contents
 
-- [00 - Frequently asked questions about the challenges](https://github.com/rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios)
-- [01 - Planning My Studies](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-01/README.en.md)
-- [02 - Node.js Concepts](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs/README.en.md)
-- [03 - ReactJS Concepts](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs)
-- [04 - React Native Concepts](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native)
+- [00 - Frequently asked questions about the challenges](https://www.notion.so/725dfe05ad554ba48323ff7a39302d9e?v=3644f75c6ff847319c42324d2a35eed8)
+- [01 - Planning My Studies](https://github.com/vitor-martinss/bootcamp-gostack-challenges/tree/main/02-node.js-concepts)
+- [02 - Node.js Concepts](https://github.com/vitor-martinss/bootcamp-gostack-challenges/tree/main/02-node.js-concepts)
+- [03 - ReactJS Concepts](https://github.com/vitor-martinss/bootcamp-gostack-challenges/tree/main/03-reactjs-concepts)
+- [04 - React Native Concepts](https://github.com/vitor-martinss/bootcamp-gostack-challenges/tree/main/04-react-native-concepts)
 - [05 - Node.js Fundamentals](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-nodejs)
-- [06 - Database and Files Upload with NodeJS](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-upload)
-- [07 - ReactJS Fundamentals](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-reactjs)
-- [08 - React Native Fundamentals](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-react-native)
-- [09 - Database relationships in Node.js](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-relations)
+- [06 - Database and Files Upload with NodeJS]()
+- [07 - ReactJS Fundamentals]()
+- [08 - React Native Fundamentals]()
+- [09 - Database relationships in Node.js]()
 
 ## :memo: Licence
 
