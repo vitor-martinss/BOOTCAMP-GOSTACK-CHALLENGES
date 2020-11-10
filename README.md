@@ -3,11 +3,6 @@
   Bootcamp GoStack Challenges
 </h2>
 
-<p align="center">
-  <a href="README.en.md">English</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="README.md">Português</a>
-</p>
-
 ## Table of Contents
 
 - [00 - Frequently asked questions about the challenges](https://www.notion.so/725dfe05ad554ba48323ff7a39302d9e?v=3644f75c6ff847319c42324d2a35eed8)
