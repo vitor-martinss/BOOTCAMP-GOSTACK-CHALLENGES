@@ -3,6 +3,12 @@
   Bootcamp GoStack Challenges
 </h2>
 
+## :rocket: About this Repository
+
+Here you will find every solution for all Bootcamp Gostack 14 challenges by Rocketseat.
+
+On each challenge you will find their instructions as well.
+
 ## Table of Contents
 
 - [00 - Frequently asked questions about the challenges](https://www.notion.so/725dfe05ad554ba48323ff7a39302d9e?v=3644f75c6ff847319c42324d2a35eed8)
@@ -11,10 +17,12 @@
 - [03 - ReactJS Concepts](https://github.com/vitor-martinss/bootcamp-gostack-challenges/tree/main/03-reactjs-concepts)
 - [04 - React Native Concepts](https://github.com/vitor-martinss/bootcamp-gostack-challenges/tree/main/04-react-native-concepts)
 - [05 - Node.js Fundamentals](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-nodejs)
-- [06 - Database and Files Upload with NodeJS]()
-- [07 - ReactJS Fundamentals]()
-- [08 - React Native Fundamentals]()
-- [09 - Database relationships in Node.js]()
+- [06 - Database and Files Upload with NodeJS](https://github.com/vitor-martinss/bootcamp-gostack-challenges/tree/main/06-database-and-files-upload-with-node.js)
+- [07 - ReactJS Fundamentals](https://github.com/vitor-martinss/bootcamp-gostack-challenges/tree/main/07-reactjs-fundamentals)
+- [08 - React Native Fundamentals](https://github.com/vitor-martinss/bootcamp-gostack-challenges/tree/main/08-react-native-fundamentals)
+- [09 - Database relationships in Node.js](https://github.com/vitor-martinss/bootcamp-gostack-challenges/tree/main/09-database-relationships-in-node.js)
+- [10 - Crud in reactjs](https://github.com/vitor-martinss/bootcamp-gostack-challenges/tree/main/10-crud-in-reactjs)
+- [11 - Navigation and filters in react native](https://github.com/vitor-martinss/bootcamp-gostack-challenges/tree/main/11-navigation-and-filters-in-react-native)
 
 ## :memo: Licence
 
